@@ -3,6 +3,7 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+                <identifier>highlightsPanelId</identifier>
                 <componentInstanceProperties>
                     <name>collapsed</name>
                     <value>false</value>
@@ -33,6 +34,7 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+            <identifier>mergeCandidatesPreviewCardId</identifier>
                 <componentInstanceProperties>
                     <name>displayOption</name>
                     <value>BOTH</value>
@@ -42,6 +44,7 @@
         </itemInstances>
         <itemInstances>
             <componentInstance>
+            <identifier>relatedListContainerId</identifier>
                 <componentInstanceProperties>
                     <name>relatedListComponentOverride</name>
                     <value>NONE</value>
@@ -64,6 +67,7 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+                <identifier>detailPanelId</identifier>
                 <componentName>force:detailPanel</componentName>
             </componentInstance>
         </itemInstances>
@@ -74,6 +78,7 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+            <identifier>relatedListsTabId</identifier>
                 <componentInstanceProperties>
                     <name>active</name>
                     <value>true</value>
@@ -91,6 +96,7 @@
         </itemInstances>
         <itemInstances>
             <componentInstance>
+            <identifier>detailTabId</identifier>
                 <componentInstanceProperties>
                     <name>body</name>
                     <value>detailTabContent</value>
@@ -104,6 +110,7 @@
         </itemInstances>
         <itemInstances>
             <componentInstance>
+            <identifier>newsTabContentId</identifier>
                 <componentInstanceProperties>
                     <name>body</name>
                     <value>newsTabContent</value>
@@ -122,6 +129,7 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+            <identifier>tabsetId</identifier>
                 <componentInstanceProperties>
                     <name>tabs</name>
                     <value>maintabs</value>
@@ -136,6 +144,7 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+            <identifier>activityPanelId</identifier>
                 <componentName>runtime_sales_activities:activityPanel</componentName>
             </componentInstance>
         </itemInstances>
@@ -146,6 +155,7 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+            <identifier>activityTabContentId</identifier>
                 <componentInstanceProperties>
                     <name>active</name>
                     <value>true</value>
@@ -163,6 +173,7 @@
         </itemInstances>
         <itemInstances>
             <componentInstance>
+            <identifier>feedTabContentId</identifier>
                 <componentInstanceProperties>
                     <name>body</name>
                     <value>feedTabContent</value>
@@ -181,11 +192,13 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+                <identifier>contactQRCodeId</identifier>
                 <componentName>contactQRCode</componentName>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
+            <identifier>sidebartabsId</identifier>
                 <componentInstanceProperties>
                     <name>tabs</name>
                     <value>sidebartabs</value>
